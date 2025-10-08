@@ -2,7 +2,7 @@
 The goal of this notebook is to explore Publix BOGO items choices and improve weekly grocery shopping, by matching Publix BOGO deals with recipes that use the discounted ingredients.
 
 ## Overview
-Publix offers "Buy One Get One" deals for ingredients that update weekly and vary by region. The Eight Portions recipe dataset (https://eightportions.com/datasets/Recipes/) is used and compared to the BOGO ingredients via NLP, to find the recipes with the most ingredients on sale for that week.
+Publix offers "Buy One Get One" deals (https://www.publix.com/savings/weekly-ad/bogo) for ingredients that update weekly and vary by region. The Eight Portions recipe dataset (https://eightportions.com/datasets/Recipes/) is used and compared to the BOGO ingredients via NLP, to find the recipes with the most ingredients on sale for that week.
 
 ## In this project
 1. BOGO items are scraped directly from the Publix website via Selenium and BeautifulSoup.
